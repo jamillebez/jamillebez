@@ -8,10 +8,14 @@
 💻 Desenvolvedora web com foco em interfaces modernas e acessíveis
 
 ## Tecnologias e Ferramentas
- Figma
+ Figma, Balsamiq
+ 
  HTML, CSS, JavaScript
+ 
  React, Git
+ 
  TypeScript, Next.js
+ 
  Design Systems e Acessibilidade
 
 
