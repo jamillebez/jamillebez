@@ -1,4 +1,6 @@
-## Hi there 👋
+  ## Olá, meu nome é Jamille Bezerra 👋
+
+  Sobre mim
 
 <!--
 **jamillebez/jamillebez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
