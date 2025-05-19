@@ -1,6 +1,6 @@
   ## Olá, meu nome é Jamille Bezerra 👋
 
-  Sobre mim
+  ## Sobre mim
 🎓 Estudante de Sistemas de Informação na Universidade Federal do Ceará
   
 
