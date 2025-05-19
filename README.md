@@ -6,7 +6,7 @@
 - 💻 Desenvolvedora web com foco em interfaces modernas e acessíveis
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/jamille-bezerra)
+- [LinkedIn](https://www.linkedin.com/in/jamille-bezerra-0518711a3/)
 
 
 
