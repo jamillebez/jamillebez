@@ -2,15 +2,17 @@
 
 ## Sobre mim
 🎓 Estudante de Sistemas de Informação na Universidade Federal do Ceará
+
 🎨 UX/UI Designer apaixonada por criar experiências intuitivas  
+
 💻 Desenvolvedora web com foco em interfaces modernas e acessíveis
 
 ## Tecnologias e Ferramentas
-- Figma
-- HTML, CSS, JavaScript
-- React, Git
-- TypeScript, Next.js
-- Design Systems e Acessibilidade
+ Figma
+ HTML, CSS, JavaScript
+ React, Git
+ TypeScript, Next.js
+ Design Systems e Acessibilidade
 
 
 ## 📫 Contato
