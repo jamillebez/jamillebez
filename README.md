@@ -1,6 +1,6 @@
 ## Olá, meu nome é Jamille Bezerra 👋
 
-## Sobre mim
+## 👩🏻‍🎓 Sobre mim
 - 🎓 Estudante de Sistemas de Informação na Universidade Federal do Ceará
 - 🎨 UX/UI Designer apaixonada por criar experiências intuitivas  
 - 💻 Desenvolvedora web com foco em interfaces modernas e acessíveis
