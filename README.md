@@ -1,25 +1,12 @@
 ## Olá, meu nome é Jamille Bezerra 👋
 
 ## Sobre mim
-🎓 Estudante de Sistemas de Informação na Universidade Federal do Ceará
-
-🎨 UX/UI Designer apaixonada por criar experiências intuitivas  
-
-💻 Desenvolvedora web com foco em interfaces modernas e acessíveis
-
-## Tecnologias e Ferramentas
- Figma, Balsamiq
- 
- HTML, CSS, JavaScript
- 
- React, Git
- 
- TypeScript, Next.js
- 
- Design Systems e Acessibilidade
-
+- 🎓 Estudante de Sistemas de Informação na Universidade Federal do Ceará
+- 🎨 UX/UI Designer apaixonada por criar experiências intuitivas  
+- 💻 Desenvolvedora web com foco em interfaces modernas e acessíveis
 
 ## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/jamille-bezerra)
 
 
 
