@@ -1,6 +1,8 @@
   ## Olá, meu nome é Jamille Bezerra 👋
 
   Sobre mim
+🎓 Estudante de Sistemas de Informação na Universidade Federal do Ceará
+  
 
 <!--
 **jamillebez/jamillebez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
